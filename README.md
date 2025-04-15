@@ -2,7 +2,7 @@
 
 **fastqc** (ver. 0.12.1; [www.bioinformatics.babraham.ac.uk/projects/fastqc/](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/))   
 **fastp** (ver. 0.23.2; https://doi.org/10.1002/imt2.107)   
-**samtools** (ver. 1.16.0; https://doi.org/10.1093/bioinformatics/btp352)   
+**samtools** (ver. 1.13; https://doi.org/10.1093/bioinformatics/btp352)   
 **Genome Analysis Tool Kit (GATK)** (ver. 4.6.0; https://doi.org/10.1101/201178)   
 **DeepVariant** (ver 1.8; https://doi.org/10.1038/nbt.4235)   
 **GLnexus** (ver 1.4.1; https://doi.org/10.1093/bioinformatics/btaa1081, https://doi.org/10.1101/343970)   
