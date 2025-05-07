@@ -18,3 +18,7 @@ KOREA1K 논문입니다.
 은 reference 를 달지 않아도 될 것 같습니다. 해당 파일들의 citation 은 보통 잘 하지 않는 편인 것 같습니다.   
    
 참고3: DeepVariant 가 공식 명칭으로 보입니다.   (https://github.com/google/deepvariant?tab=readme-ov-file)
+
+
+![image](https://github.com/user-attachments/assets/086a6a6e-2ab3-4a2b-a7dc-6746a93abc3d)
+
