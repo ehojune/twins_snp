@@ -20,5 +20,7 @@ KOREA1K 논문입니다.
 참고3: DeepVariant 가 공식 명칭으로 보입니다.   (https://github.com/google/deepvariant?tab=readme-ov-file)
 
 
-![image](https://github.com/user-attachments/assets/086a6a6e-2ab3-4a2b-a7dc-6746a93abc3d)
+![image](https://github.com/user-attachments/assets/2ac61035-e421-408d-bdc9-1769ca72c6c8)
+
+![image](https://github.com/user-attachments/assets/3b9351a4-7e86-4836-9a93-f1b8d1d4c471)
 
