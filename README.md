@@ -19,6 +19,7 @@ KOREA1K 논문입니다.
    
 참고3: DeepVariant 가 공식 명칭으로 보입니다.   (https://github.com/google/deepvariant?tab=readme-ov-file)
 
+합쳐진 큰그림     (원본: [Up)loading twin_overall_bioinformatic_workflow1.drawio…]()
 
 ![image](https://github.com/user-attachments/assets/2ac61035-e421-408d-bdc9-1769ca72c6c8)
 
