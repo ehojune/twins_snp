@@ -8,7 +8,10 @@
 **GLnexus** (ver 1.4.1; https://doi.org/10.1093/bioinformatics/btaa1081, https://doi.org/10.1101/343970)   
 **bcftools** (ver 1.11; https://doi.org/10.1093/gigascience/giab008)   
    
-   
+최종 이미지
+<img width="1201" height="900" alt="image" src="https://github.com/user-attachments/assets/afc0b419-b551-48bf-a451-a20cddd311bc" />
+
+
    
 참고1 : **fastq 검증 ~ variant calling 까지의 과정의 예시**   
 https://www.science.org/doi/10.1126/sciadv.aaz7835#sec-4   
@@ -24,4 +27,6 @@ KOREA1K 논문입니다.
 ![image](https://github.com/user-attachments/assets/2ac61035-e421-408d-bdc9-1769ca72c6c8)
 
 ![image](https://github.com/user-attachments/assets/3b9351a4-7e86-4836-9a93-f1b8d1d4c471)
+
+
 
