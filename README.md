@@ -6,9 +6,10 @@
 **Cutadapt** (ver. 4.8; [https://doi.org/10.14806/ej.17.1.200](https://doi.org/10.14806/ej.17.1.200)   
 **bwa** [https://doi.org/10.1093/bioinformatics/btp324](https://doi.org/10.1093/bioinformatics/btp324)   
 **sambambm** [https://doi.org/10.1093/bioinformatics/btv098](https://doi.org/10.1093/bioinformatics/btv098)   
-**GATK** [https://doi.org/10.1101/201178](https://doi.org/10.1101/201178)
+**GATK** [https://doi.org/10.1101/201178](https://doi.org/10.1101/201178)   
 **king** [https://doi.org/10.1093/bioinformatics/btq559](https://doi.org/10.1093/bioinformatics/btq559)   
 
+   
       #twins paper programs citations   
 **fastqc** (ver. 0.12.1; [www.bioinformatics.babraham.ac.uk/projects/fastqc/](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/))   
 **fastp** (ver. 0.23.2; https://doi.org/10.1002/imt2.107)   
